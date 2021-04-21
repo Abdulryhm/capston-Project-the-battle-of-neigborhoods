@@ -1,0 +1,9 @@
+Introduction of data set 
+Due to the unavailability of credit card i could not create a foursquare account so i get a data set from 
+Kaggle (https://www.kaggle.com/datafiniti/fast-food-restaurants?select=FastFoodRestaurants.csv).
+the data set contain the information of almost 10000 fast-food restaurant of United state of America and the attributes of the data set are 
+US. Specifies the address, city, country, keys, Longitude, Latitude , postal Code, province and websites
+according to the data set: 
+Total 523 different chains or fast-food restaurant are working in US 
+McDonald's have 1971 and Burger King 1154 Resturnts Branches 
+Total number of Cites are 2777 and 54 Provinces. 
