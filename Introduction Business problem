@@ -1,1 +1,6 @@
-Introduction Business Proble 
+
+The idea behind this project is to facilitate the fast-food business community, this this project I will use Fast food points data set of US.
+The data set contain the information of almost 10000 fast food points throughout the country with Lists US. Specifies the address, city, country, keys,
+Longitude Latitude. postal Code, province, and websites. 
+By using this data set I will try to recommend the best point for fast-food to the fast food chain owners or 
+if any one wants to start a new fast food point in US or a specific provenance or city as well. I will also try to explore which area is hub of the fast food points. 
